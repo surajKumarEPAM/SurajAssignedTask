@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj": {}
+    "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj": {
+    "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj",
+        "projectUniqueName": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj",
         "projectName": "FremeworkFile",
-        "projectPath": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj",
+        "projectPath": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\FremeworkFile.csproj",
         "packagesPath": "C:\\Users\\Suraj_Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\obj\\",
+        "outputPath": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

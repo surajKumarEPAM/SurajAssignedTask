@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FremeworkFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a9828403910fb5562a57509f675529eddb6d2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FremeworkFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FremeworkFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

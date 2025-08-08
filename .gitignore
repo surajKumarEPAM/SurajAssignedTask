@@ -1,0 +1,34 @@
+# Build results
+bin/
+obj/
+ 
+# Visual Studio
+.vs/
+*.user
+*.suo
+ 
+# Test results
+*.testlog
+*.trx
+ 
+# Cache files
+*.cache
+*.log
+*.dbbcache
+*.pdb
+ 
+# NuGet
+*.nupkg
+*.snupkg
+*.backup.json
+*.ddtorconfig
+*.nuget.dgspec.json
+project.lock.json
+project.assets.json
+ 
+# Rider / JetBrains
+.idea/
+ 
+# Others
+*.dll
+*.tmp

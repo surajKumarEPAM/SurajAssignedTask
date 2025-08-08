@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\",
+  "WorkspaceRootPath": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\arthematicfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\arthematicfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\arthematicfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\arthematicfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\additionbuisness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\additionbuisness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\sublogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\sublogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\addstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\addstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\loginfile.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\loginfile.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\browsersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\browsersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\browsersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\stepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\stepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\loginfile.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\loginfile.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\fremeworkfiledesign\\fremeworkfile\\drivercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\arthematicfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\arthematicfeature.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\drivercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\drivercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\sublogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\sublogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\arthematicfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\arthematicfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\additionbuisness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\additionbuisness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\addstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\addstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|c:\\users\\suraj_kumar\\source\\repos\\practicecourse\\fremeworkfiledesign\\fremeworkfile\\stepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83DC371-1D9A-47EF-91B0-E129B98E6865}|FremeworkFile\\FremeworkFile.csproj|solutionrelative:fremeworkfile\\stepdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrowserSetUp.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\BrowserSetUp.cs",
+              "RelativeDocumentMoniker": "FremeworkFile\\BrowserSetUp.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\BrowserSetUp.cs*",
+              "RelativeToolTip": "FremeworkFile\\BrowserSetUp.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:31:42.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArthematicFeature.feature",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeature.feature",
+              "RelativeDocumentMoniker": "FremeworkFile\\ArthematicFeature.feature",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeature.feature",
+              "RelativeToolTip": "FremeworkFile\\ArthematicFeature.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVEhLjZVbbBRVGMd/Z3a3s91btdu7pLRbLRFCQWwbWi0KhJho8An7UDQkYkjoAyWxxBvGC0ljUoEaifggKAkRYvCBmCBEiaBNi5ByKyhEsWivS1u7vUx39jbHh3amu0tr\u002BM/LnO/y/8985zvfETwIjheBTLgAJyARhHG7dDb2pEemQkop0m0Wap0KFY5i6lzVKNQCpUAWYACjQA\u002BG7ORn/RLdsX46wjKdAmB\u002BgQ\u002BBR/PrEbwGLAf8gD0pQgIxYAToQrKPhuD5JL\u002BFVIGHBHzyiJeMWDPwborv/yGRbOHLiW/4IRxNdtiSF1zLVLnnaASaADeAx\u002B5mbV4ddmFjLBrCZcukLnc1BZl59E0PmJkCwQpWqncJGbfpiVuUivUG0OV7AmgEckzTcwVrOVS9l7eXNpGr\u002BlmVXcGByhYOV7WhpKYXA4286s1PNs5F7MrKQHAAKAGEwswTik2SnfEwNf5KFrmLqM2potwTYDI2hYGRzGVHsA5FvIJrrvJzJarNrKPI/gYgXLZMXi55icd8Aa6HfmMyrqElNE4PncMubDhtKnt\u002B38/fWq\u002BVPgsBLKHE8QXtetQ0QIWqsCPrfdxiN8Bq/5OcWvM1MSPGueEOtl58HY/dxUhkFNWm4rN7uBcdIWEk0vgBkHRFnuHjUDtWiTzCg1sEzIhrYzc5OXCaYHSEJb4A5Z5ShvQgcRlHi2sM6sGFyJn96BXmwtyDjNlTCkDY0GnsepNtF5vZcmEnV0M3TFcKclU/Poc33Uxyk8wKyARg9ZZAsL1sC7uXNfHO0h0UZqY0BgBbSzdzrOYgh6vaWF\u002BwJt1t7fKMgBDTs8cfgKdzqmlZ/hbr8uoo9RQzFdfwObwoQsEu7LjtLu5O/0O5t4zni9bzVXWbmWqi33yZ6SJJgmVqIT7lRQA9HsWhODg/3Mm\u002B259T469kc8kmbk/eocxTws7ybVwZ6\u002BZs8Bd6pwc52X\u002BGy2PX5\u002BgHEy106P2kjIpdWUWsct4BVACn4kRiUODM59cNp9CNCA2d2wl4SjhUtZeroZs89eNGbMJGQiaIS6vCg1wOl9E6oZNy0FrHBxDsAcIAuqETMaIEPMVkKA5uTdxhMBzkr6m79Gi9LHYtwq9mEzEiyeQ6yBaTnPtm0Sbvn8DjQMD0jUbGGNSDfDdwhu7xW4xGxvhjqofvh85y5d9uJNaUNkB2IviIE9qEaUydpjkKfJq7GvgMWGmaFaEgpbTIFARydoQmYQRkMzkjR9lgWDMk9Q\u002BmJXyr9aGKdpZkLAayAVUiU6baPDeLhma0sX/8MK3xSLIjVcBEd3SYBu9PJOgFEoAPcN03fWe0gsBB9ofauBq1SmNi/hsNQBXwgk9Q7/IhjQpgL1CZFjUEfIDkCA1Ba2OTsbBAMo4XFSKNoyCfBTSgD7jAleg\u002BzkVucHE6PcPCgwkcK8gB3gOZB1wCo4MjU92cDk\u002Bmh6bjQQUUIAubLUx9/7ylWAj/AQ0Jh6r5YMmjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-08-08T06:02:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginFile.feature",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\LoginFile.feature",
+              "RelativeDocumentMoniker": "FremeworkFile\\LoginFile.feature",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\LoginFile.feature",
+              "RelativeToolTip": "FremeworkFile\\LoginFile.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVEhLjZVbbBRVGMd/Z3a3s91btdu7pLRbLRFCQWwbWi0KhJho8An7UDQkYkjoAyWxxBvGC0ljUoEaifggKAkRYvCBmCBEiaBNi5ByKyhEsWivS1u7vUx39jbHh3amu0tr\u002BM/LnO/y/8985zvfETwIjheBTLgAJyARhHG7dDb2pEemQkop0m0Wap0KFY5i6lzVKNQCpUAWYACjQA\u002BG7ORn/RLdsX46wjKdAmB\u002BgQ\u002BBR/PrEbwGLAf8gD0pQgIxYAToQrKPhuD5JL\u002BFVIGHBHzyiJeMWDPwborv/yGRbOHLiW/4IRxNdtiSF1zLVLnnaASaADeAx\u002B5mbV4ddmFjLBrCZcukLnc1BZl59E0PmJkCwQpWqncJGbfpiVuUivUG0OV7AmgEckzTcwVrOVS9l7eXNpGr\u002BlmVXcGByhYOV7WhpKYXA4286s1PNs5F7MrKQHAAKAGEwswTik2SnfEwNf5KFrmLqM2potwTYDI2hYGRzGVHsA5FvIJrrvJzJarNrKPI/gYgXLZMXi55icd8Aa6HfmMyrqElNE4PncMubDhtKnt\u002B38/fWq\u002BVPgsBLKHE8QXtetQ0QIWqsCPrfdxiN8Bq/5OcWvM1MSPGueEOtl58HY/dxUhkFNWm4rN7uBcdIWEk0vgBkHRFnuHjUDtWiTzCg1sEzIhrYzc5OXCaYHSEJb4A5Z5ShvQgcRlHi2sM6sGFyJn96BXmwtyDjNlTCkDY0GnsepNtF5vZcmEnV0M3TFcKclU/Poc33Uxyk8wKyARg9ZZAsL1sC7uXNfHO0h0UZqY0BgBbSzdzrOYgh6vaWF\u002BwJt1t7fKMgBDTs8cfgKdzqmlZ/hbr8uoo9RQzFdfwObwoQsEu7LjtLu5O/0O5t4zni9bzVXWbmWqi33yZ6SJJgmVqIT7lRQA9HsWhODg/3Mm\u002B259T469kc8kmbk/eocxTws7ybVwZ6\u002BZs8Bd6pwc52X\u002BGy2PX5\u002BgHEy106P2kjIpdWUWsct4BVACn4kRiUODM59cNp9CNCA2d2wl4SjhUtZeroZs89eNGbMJGQiaIS6vCg1wOl9E6oZNy0FrHBxDsAcIAuqETMaIEPMVkKA5uTdxhMBzkr6m79Gi9LHYtwq9mEzEiyeQ6yBaTnPtm0Sbvn8DjQMD0jUbGGNSDfDdwhu7xW4xGxvhjqofvh85y5d9uJNaUNkB2IviIE9qEaUydpjkKfJq7GvgMWGmaFaEgpbTIFARydoQmYQRkMzkjR9lgWDMk9Q\u002BmJXyr9aGKdpZkLAayAVUiU6baPDeLhma0sX/8MK3xSLIjVcBEd3SYBu9PJOgFEoAPcN03fWe0gsBB9ofauBq1SmNi/hsNQBXwgk9Q7/IhjQpgL1CZFjUEfIDkCA1Ba2OTsbBAMo4XFSKNoyCfBTSgD7jAleg\u002BzkVucHE6PcPCgwkcK8gB3gOZB1wCo4MjU92cDk\u002Bmh6bjQQUUIAubLUx9/7ylWAj/AQ0Jh6r5YMmjAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-08-08T02:54:42.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navigation.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\Navigation.cs",
+              "RelativeDocumentMoniker": "FremeworkFile\\Navigation.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\Navigation.cs",
+              "RelativeToolTip": "FremeworkFile\\Navigation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:43:56.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverContext.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\DriverContext.cs",
+              "RelativeDocumentMoniker": "FremeworkFile\\DriverContext.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\DriverContext.cs",
+              "RelativeToolTip": "FremeworkFile\\DriverContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:29:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\SubLogic.cs",
+              "RelativeDocumentMoniker": "FremeworkFile\\SubLogic.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\SubLogic.cs",
+              "RelativeToolTip": "FremeworkFile\\SubLogic.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:26:49.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -62,23 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArthematicFeature.feature",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeature.feature",
-              "RelativeDocumentMoniker": "FremeworkFile\\ArthematicFeature.feature",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeature.feature",
-              "RelativeToolTip": "FremeworkFile\\ArthematicFeature.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVEhLjZVbbBRVGMd/Z3a3s91btdu7pLRbLRFCQWwbWi0KhJho8An7UDQkYkjoAyWxxBvGC0ljUoEaifggKAkRYvCBmCBEiaBNi5ByKyhEsWivS1u7vUx39jbHh3amu0tr\u002BM/LnO/y/8985zvfETwIjheBTLgAJyARhHG7dDb2pEemQkop0m0Wap0KFY5i6lzVKNQCpUAWYACjQA\u002BG7ORn/RLdsX46wjKdAmB\u002BgQ\u002BBR/PrEbwGLAf8gD0pQgIxYAToQrKPhuD5JL\u002BFVIGHBHzyiJeMWDPwborv/yGRbOHLiW/4IRxNdtiSF1zLVLnnaASaADeAx\u002B5mbV4ddmFjLBrCZcukLnc1BZl59E0PmJkCwQpWqncJGbfpiVuUivUG0OV7AmgEckzTcwVrOVS9l7eXNpGr\u002BlmVXcGByhYOV7WhpKYXA4286s1PNs5F7MrKQHAAKAGEwswTik2SnfEwNf5KFrmLqM2potwTYDI2hYGRzGVHsA5FvIJrrvJzJarNrKPI/gYgXLZMXi55icd8Aa6HfmMyrqElNE4PncMubDhtKnt\u002B38/fWq\u002BVPgsBLKHE8QXtetQ0QIWqsCPrfdxiN8Bq/5OcWvM1MSPGueEOtl58HY/dxUhkFNWm4rN7uBcdIWEk0vgBkHRFnuHjUDtWiTzCg1sEzIhrYzc5OXCaYHSEJb4A5Z5ShvQgcRlHi2sM6sGFyJn96BXmwtyDjNlTCkDY0GnsepNtF5vZcmEnV0M3TFcKclU/Poc33Uxyk8wKyARg9ZZAsL1sC7uXNfHO0h0UZqY0BgBbSzdzrOYgh6vaWF\u002BwJt1t7fKMgBDTs8cfgKdzqmlZ/hbr8uoo9RQzFdfwObwoQsEu7LjtLu5O/0O5t4zni9bzVXWbmWqi33yZ6SJJgmVqIT7lRQA9HsWhODg/3Mm\u002B259T469kc8kmbk/eocxTws7ybVwZ6\u002BZs8Bd6pwc52X\u002BGy2PX5\u002BgHEy106P2kjIpdWUWsct4BVACn4kRiUODM59cNp9CNCA2d2wl4SjhUtZeroZs89eNGbMJGQiaIS6vCg1wOl9E6oZNy0FrHBxDsAcIAuqETMaIEPMVkKA5uTdxhMBzkr6m79Gi9LHYtwq9mEzEiyeQ6yBaTnPtm0Sbvn8DjQMD0jUbGGNSDfDdwhu7xW4xGxvhjqofvh85y5d9uJNaUNkB2IviIE9qEaUydpjkKfJq7GvgMWGmaFaEgpbTIFARydoQmYQRkMzkjR9lgWDMk9Q\u002BmJXyr9aGKdpZkLAayAVUiU6baPDeLhma0sX/8MK3xSLIjVcBEd3SYBu9PJOgFEoAPcN03fWe0gsBB9ofauBq1SmNi/hsNQBXwgk9Q7/IhjQpgL1CZFjUEfIDkCA1Ba2OTsbBAMo4XFSKNoyCfBTSgD7jAleg\u002BzkVucHE6PcPCgwkcK8gB3gOZB1wCo4MjU92cDk\u002Bmh6bjQQUUIAubLUx9/7ylWAj/AQ0Jh6r5YMmjAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-08-08T06:02:50.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ArthematicFeatureStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeatureStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeatureStepDefinitions.cs",
               "RelativeDocumentMoniker": "FremeworkFile\\ArthematicFeatureStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeatureStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\ArthematicFeatureStepDefinitions.cs",
               "RelativeToolTip": "FremeworkFile\\ArthematicFeatureStepDefinitions.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,11 +153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AdditionBuisness.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\AdditionBuisness.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\AdditionBuisness.cs",
               "RelativeDocumentMoniker": "FremeworkFile\\AdditionBuisness.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\AdditionBuisness.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\AdditionBuisness.cs",
               "RelativeToolTip": "FremeworkFile\\AdditionBuisness.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,23 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SubLogic.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\SubLogic.cs",
-              "RelativeDocumentMoniker": "FremeworkFile\\SubLogic.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\SubLogic.cs",
-              "RelativeToolTip": "FremeworkFile\\SubLogic.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T08:26:49.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AddStepDefinition.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\AddStepDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\AddStepDefinition.cs",
               "RelativeDocumentMoniker": "FremeworkFile\\AddStepDefinition.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\AddStepDefinition.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\AddStepDefinition.cs",
               "RelativeToolTip": "FremeworkFile\\AddStepDefinition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,63 +177,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginFile.feature",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\LoginFile.feature",
-              "RelativeDocumentMoniker": "FremeworkFile\\LoginFile.feature",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\LoginFile.feature",
-              "RelativeToolTip": "FremeworkFile\\LoginFile.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARRSURBVEhLjZVbbBRVGMd/Z3a3s91btdu7pLRbLRFCQWwbWi0KhJho8An7UDQkYkjoAyWxxBvGC0ljUoEaifggKAkRYvCBmCBEiaBNi5ByKyhEsWivS1u7vUx39jbHh3amu0tr\u002BM/LnO/y/8985zvfETwIjheBTLgAJyARhHG7dDb2pEemQkop0m0Wap0KFY5i6lzVKNQCpUAWYACjQA\u002BG7ORn/RLdsX46wjKdAmB\u002BgQ\u002BBR/PrEbwGLAf8gD0pQgIxYAToQrKPhuD5JL\u002BFVIGHBHzyiJeMWDPwborv/yGRbOHLiW/4IRxNdtiSF1zLVLnnaASaADeAx\u002B5mbV4ddmFjLBrCZcukLnc1BZl59E0PmJkCwQpWqncJGbfpiVuUivUG0OV7AmgEckzTcwVrOVS9l7eXNpGr\u002BlmVXcGByhYOV7WhpKYXA4286s1PNs5F7MrKQHAAKAGEwswTik2SnfEwNf5KFrmLqM2potwTYDI2hYGRzGVHsA5FvIJrrvJzJarNrKPI/gYgXLZMXi55icd8Aa6HfmMyrqElNE4PncMubDhtKnt\u002B38/fWq\u002BVPgsBLKHE8QXtetQ0QIWqsCPrfdxiN8Bq/5OcWvM1MSPGueEOtl58HY/dxUhkFNWm4rN7uBcdIWEk0vgBkHRFnuHjUDtWiTzCg1sEzIhrYzc5OXCaYHSEJb4A5Z5ShvQgcRlHi2sM6sGFyJn96BXmwtyDjNlTCkDY0GnsepNtF5vZcmEnV0M3TFcKclU/Poc33Uxyk8wKyARg9ZZAsL1sC7uXNfHO0h0UZqY0BgBbSzdzrOYgh6vaWF\u002BwJt1t7fKMgBDTs8cfgKdzqmlZ/hbr8uoo9RQzFdfwObwoQsEu7LjtLu5O/0O5t4zni9bzVXWbmWqi33yZ6SJJgmVqIT7lRQA9HsWhODg/3Mm\u002B259T469kc8kmbk/eocxTws7ybVwZ6\u002BZs8Bd6pwc52X\u002BGy2PX5\u002BgHEy106P2kjIpdWUWsct4BVACn4kRiUODM59cNp9CNCA2d2wl4SjhUtZeroZs89eNGbMJGQiaIS6vCg1wOl9E6oZNy0FrHBxDsAcIAuqETMaIEPMVkKA5uTdxhMBzkr6m79Gi9LHYtwq9mEzEiyeQ6yBaTnPtm0Sbvn8DjQMD0jUbGGNSDfDdwhu7xW4xGxvhjqofvh85y5d9uJNaUNkB2IviIE9qEaUydpjkKfJq7GvgMWGmaFaEgpbTIFARydoQmYQRkMzkjR9lgWDMk9Q\u002BmJXyr9aGKdpZkLAayAVUiU6baPDeLhma0sX/8MK3xSLIjVcBEd3SYBu9PJOgFEoAPcN03fWe0gsBB9ofauBq1SmNi/hsNQBXwgk9Q7/IhjQpgL1CZFjUEfIDkCA1Ba2OTsbBAMo4XFSKNoyCfBTSgD7jAleg\u002BzkVucHE6PcPCgwkcK8gB3gOZB1wCo4MjU92cDk\u002Bmh6bjQQUUIAubLUx9/7ylWAj/AQ0Jh6r5YMmjAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-08-08T02:54:42.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Navigation.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\Navigation.cs",
-              "RelativeDocumentMoniker": "FremeworkFile\\Navigation.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\Navigation.cs",
-              "RelativeToolTip": "FremeworkFile\\Navigation.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T02:43:56.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BrowserSetUp.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\BrowserSetUp.cs",
-              "RelativeDocumentMoniker": "FremeworkFile\\BrowserSetUp.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\BrowserSetUp.cs",
-              "RelativeToolTip": "FremeworkFile\\BrowserSetUp.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T02:31:42.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StepDef.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\StepDef.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\StepDef.cs",
               "RelativeDocumentMoniker": "FremeworkFile\\StepDef.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\StepDef.cs",
+              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\PracticeCourse\\FremeworkFileDesign\\FremeworkFile\\StepDef.cs",
               "RelativeToolTip": "FremeworkFile\\StepDef.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T02:56:38.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DriverContext.cs",
-              "DocumentMoniker": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\DriverContext.cs",
-              "RelativeDocumentMoniker": "FremeworkFile\\DriverContext.cs",
-              "ToolTip": "C:\\Users\\Suraj_Kumar\\source\\repos\\FremeworkFileDesign\\FremeworkFile\\DriverContext.cs",
-              "RelativeToolTip": "FremeworkFile\\DriverContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T02:29:12.163Z"
             }
           ]
         }

@@ -12,10 +12,10 @@ Scenario: Adding two number
 
 @Sub
 Scenario Outline: Subtrating two number
-	Given First number is '<FirstNum>'
-	And Second number is '<SecNum>'
+	Given First number is <FirstNum>
+	And Second number is <SecNum>
 	When we perform subtraction
-	Then Result should be '<FinalAns>'
+	Then Result should be <FinalAns>
 Examples:
 	| FirstNum | SecNum | FinalAns |
 	| 40       | 20     | 20       |
